@@ -7,3 +7,5 @@
 
 
 The Matlab code enables to reproduce the results from the above ICASSP article.
+
+External lib requirements: Image reconstruction toolbox - http://web.eecs.umich.edu/~fessler/irt/fessler.tgz
