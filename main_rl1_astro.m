@@ -1,4 +1,11 @@
 % Test for reweighting l1
+% Application to RI imaging 
+%
+% articles:
+% - A. Repetti and Y. Wiaux. A forward-backward algorithm for reweighted procedures: Application to radio-astronomical imaging. In Proceedings of IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Barcelona, Spain, 4-8 Mai 2020
+% - A. Repetti, and  Y. Wiaux. Variable Metric Forward-Backward Algorithm for Composite Minimization Problems.  SIAM Journal on Optimization, vol. 31, no. 2, pp. 1215-1241, May 2021.
+%
+% author: a.repetti@hw.ac.uk
 
 
 
